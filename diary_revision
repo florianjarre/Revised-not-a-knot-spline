@@ -1,0 +1,1018 @@
+compare_rev
+
+a =
+
+     0
+
+
+b =
+
+    3.1416
+
+
+n =
+
+     6
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   4.4726e-04
+
+
+dist_to_f_nak =
+
+    0.0027
+
+
+dist_to_f_qspline =
+
+    0.0022
+
+
+dist_to_f_RNAK =
+
+    0.0016
+
+compare_rev
+
+a =
+
+     0
+
+
+b =
+
+    3.1416
+
+
+n =
+
+    12
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   1.7682e-05
+
+
+dist_to_f_nak =
+
+   5.4506e-05
+
+
+dist_to_f_qspline =
+
+   3.9862e-05
+
+
+dist_to_f_RNAK =
+
+   1.7661e-05
+
+compare_rev
+
+a =
+
+     0
+
+
+b =
+
+    3.1416
+
+
+n =
+
+    24
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   9.1071e-07
+
+
+dist_to_f_nak =
+
+   1.3790e-06
+
+
+dist_to_f_qspline =
+
+   9.5642e-07
+
+
+dist_to_f_RNAK =
+
+   9.1071e-07
+
+compare_rev
+
+a =
+
+     0
+
+
+b =
+
+    3.1416
+
+
+n =
+
+    48
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   5.2043e-08
+
+
+dist_to_f_nak =
+
+   5.2043e-08
+
+
+dist_to_f_qspline =
+
+   5.2043e-08
+
+
+dist_to_f_RNAK =
+
+   5.2043e-08
+
+compare_rev
+
+a =
+
+     0
+
+
+b =
+
+    3.1416
+
+
+n =
+
+    96
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   3.1152e-09
+
+
+dist_to_f_nak =
+
+   3.1152e-09
+
+
+dist_to_f_qspline =
+
+   3.1152e-09
+
+
+dist_to_f_RNAK =
+
+   3.1152e-09
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+     6
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+    0.0145
+
+
+dist_to_f_nak =
+
+    0.0043
+
+
+dist_to_f_qspline =
+
+    0.0016
+
+
+dist_to_f_RNAK =
+
+   6.6355e-04
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    12
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+    0.0029
+
+
+dist_to_f_nak =
+
+   1.6556e-04
+
+
+dist_to_f_qspline =
+
+   5.4626e-05
+
+
+dist_to_f_RNAK =
+
+   4.6219e-05
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    24
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   6.4891e-04
+
+
+dist_to_f_nak =
+
+   7.8593e-06
+
+
+dist_to_f_qspline =
+
+   2.2376e-06
+
+
+dist_to_f_RNAK =
+
+   9.0994e-07
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    48
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   1.5517e-04
+
+
+dist_to_f_nak =
+
+   4.2508e-07
+
+
+dist_to_f_qspline =
+
+   1.1033e-07
+
+
+dist_to_f_RNAK =
+
+   5.1976e-08
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    96
+
+equidistant knots
+sin
+
+dist_to_f_nat =
+
+   3.7968e-05
+
+
+dist_to_f_nak =
+
+   2.4667e-08
+
+
+dist_to_f_qspline =
+
+   6.0237e-09
+
+
+dist_to_f_RNAK =
+
+   3.1118e-09
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+     6
+
+random knots
+sin
+
+dist_to_f_nat =
+
+    0.0420
+
+
+dist_to_f_nak =
+
+    0.0472
+
+
+dist_to_f_qspline =
+
+    0.0460
+
+
+dist_to_f_RNAK =
+
+    0.0469
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    12
+
+random knots
+sin
+
+dist_to_f_nat =
+
+    0.0012
+
+
+dist_to_f_nak =
+
+    0.0012
+
+
+dist_to_f_qspline =
+
+    0.0012
+
+
+dist_to_f_RNAK =
+
+    0.0012
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    24
+
+random knots
+sin
+
+dist_to_f_nat =
+
+   5.1539e-04
+
+
+dist_to_f_nak =
+
+   5.1539e-04
+
+
+dist_to_f_qspline =
+
+   5.1539e-04
+
+
+dist_to_f_RNAK =
+
+   5.1539e-04
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    48
+
+random knots
+sin
+
+dist_to_f_nat =
+
+   1.7227e-04
+
+
+dist_to_f_nak =
+
+   1.3901e-05
+
+
+dist_to_f_qspline =
+
+   1.3901e-05
+
+
+dist_to_f_RNAK =
+
+   1.3901e-05
+
+compare_rev
+
+a =
+
+    0.7854
+
+
+b =
+
+    3.9270
+
+
+n =
+
+    96
+
+random knots
+sin
+
+dist_to_f_nat =
+
+   3.3629e-04
+
+
+dist_to_f_nak =
+
+   8.4506e-07
+
+
+dist_to_f_qspline =
+
+   8.4506e-07
+
+
+dist_to_f_RNAK =
+
+   8.4506e-07
+
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     3
+
+
+n =
+
+     6
+
+random knots
+1./(1+x.^2)
+
+dist_to_f_nat =
+
+    0.1054
+
+
+dist_to_f_nak =
+
+    0.1373
+
+
+dist_to_f_qspline =
+
+    0.2723
+
+
+dist_to_f_RNAK =
+
+    0.2511
+
+x'
+
+ans =
+
+   -1.0000    0.3551    1.5676    2.2753    2.2966    3.0000
+
+%no damping on either side for rnak
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     3
+
+
+n =
+
+    12
+
+random knots
+1./(1+x.^2)
+
+dist_to_f_nat =
+
+    0.0149
+
+
+dist_to_f_nak =
+
+    0.0062
+
+
+dist_to_f_qspline =
+
+    0.0303
+
+
+dist_to_f_RNAK =
+
+    0.0265
+
+x'
+
+ans =
+
+  Columns 1 through 6
+
+   -1.0000   -0.4347    0.0132    0.0987    0.4117    0.5816
+
+  Columns 7 through 12
+
+    0.5993    0.7718    1.6441    2.8217    2.9527    3.0000
+
+dampingl
+
+dampingl =
+
+    0.8144
+
+% dampingr = 1; again largest errors on the left
+% dampingr = 1; again largest errors on the left
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     3
+
+
+n =
+
+    24
+
+random knots
+1./(1+x.^2)
+
+dist_to_f_nat =
+
+    0.0017
+
+
+dist_to_f_nak =
+
+    0.0013
+
+
+dist_to_f_qspline =
+
+    0.0013
+
+
+dist_to_f_RNAK =
+
+    0.0013
+
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     3
+
+
+n =
+
+    48
+
+random knots
+1./(1+x.^2)
+
+dist_to_f_nat =
+
+   1.8201e-04
+
+
+dist_to_f_nak =
+
+   1.8186e-04
+
+
+dist_to_f_qspline =
+
+   1.8187e-04
+
+
+dist_to_f_RNAK =
+
+   1.8186e-04
+
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     3
+
+
+n =
+
+    96
+
+random knots
+1./(1+x.^2)
+
+dist_to_f_nat =
+
+   5.7138e-05
+
+
+dist_to_f_nak =
+
+   3.5981e-05
+
+
+dist_to_f_qspline =
+
+   3.5981e-05
+
+
+dist_to_f_RNAK =
+
+   3.5981e-05
+
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     4
+
+
+n =
+
+     6
+
+equidistant knots
+exp(-1./(x.^2))
+
+dist_to_f_nat =
+
+    0.1053
+
+
+dist_to_f_nak =
+
+    0.1227
+
+
+dist_to_f_qspline =
+
+    0.1251
+
+
+dist_to_f_RNAK =
+
+    0.1241
+
+% !!! by mistake the above run refers to the wrong function 
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     4
+
+
+n =
+
+     6
+
+equidistant knots
+logistic function
+
+dist_to_f_nat =
+
+    0.0055
+
+
+dist_to_f_nak =
+
+   5.7709e-04
+
+
+dist_to_f_qspline =
+
+    0.0023
+
+
+dist_to_f_RNAK =
+
+    0.0021
+
+%dampingl = 1 dampingr = 0, largest error left
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     4
+
+
+n =
+
+    12
+
+equidistant knots
+logistic function
+
+dist_to_f_nat =
+
+   9.5815e-04
+
+
+dist_to_f_nak =
+
+   1.2944e-04
+
+
+dist_to_f_qspline =
+
+   1.0996e-04
+
+
+dist_to_f_RNAK =
+
+   1.0392e-04
+
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     4
+
+
+n =
+
+    24
+
+equidistant knots
+logistic function
+
+dist_to_f_nat =
+
+   2.1250e-04
+
+
+dist_to_f_nak =
+
+   7.9902e-06
+
+
+dist_to_f_qspline =
+
+   8.2077e-07
+
+
+dist_to_f_RNAK =
+
+   1.0376e-06
+
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     4
+
+
+n =
+
+    48
+
+equidistant knots
+logistic function
+
+dist_to_f_nat =
+
+   5.0577e-05
+
+
+dist_to_f_nak =
+
+   4.6017e-07
+
+
+dist_to_f_qspline =
+
+   1.0184e-07
+
+
+dist_to_f_RNAK =
+
+   4.3724e-08
+
+compare_rev
+
+a =
+
+    -1
+
+
+b =
+
+     4
+
+
+n =
+
+    96
+
+equidistant knots
+logistic function
+
+dist_to_f_nat =
+
+   1.2362e-05
+
+
+dist_to_f_nak =
+
+   2.7251e-08
+
+
+dist_to_f_qspline =
+
+   6.5161e-09
+
+
+dist_to_f_RNAK =
+
+   2.6627e-09
+
+exit
